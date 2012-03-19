@@ -269,7 +269,7 @@
   <project name="TeamDRH/vendor_malata_smba1002" path="vendor/malata/smba1002" remote="github" revision="ventana" />
   <project name="TeamDRH/android_device_malata_smba1002" path="device/malata/smba1002" remote="github" revision="wjb-cm9" />
   <project name="TeamDRH/packages_apps_ROMControl" path="packages/apps/ROMControl" remote="github" revision="wjb-cm9" />
-  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" remote="aosp_local" revision="refs/tags/android-4.0.3_r1" />
+  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project name="CyanogenMod/android_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="gingerbread" />
 
   <project path="packages/apps/Settings" name="TeamDRH/cm_packages_apps_Settings" remote="github" revision="wjb-cm9" />
