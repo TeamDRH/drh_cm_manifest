@@ -163,7 +163,9 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
+<!--
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
+-->
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -216,7 +218,9 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
+<!--
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
+-->
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -260,4 +264,15 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="CyanogenMod/android" />
+
+  <project name="TeamDRH/vendor_TeamDRH" path="vendor/TeamDRH" remote="github" revision="wjb-cm9" />
+  <project name="TeamDRH/vendor_malata_smba1002" path="vendor/malata/smba1002" remote="github" revision="ventana" />
+  <project name="TeamDRH/android_device_malata_smba1002" path="device/malata/smba1002" remote="github" revision="wjb-cm9" />
+  <project name="TeamDRH/packages_apps_ROMControl" path="packages/apps/ROMControl" remote="github" revision="wjb-cm9" />
+  <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" remote="aosp_local" revision="refs/tags/android-4.0.3_r1" />
+  <project name="CyanogenMod/android_packages_apps_FileManager" path="packages/apps/FileManager" remote="github" revision="gingerbread" />
+
+  <project path="packages/apps/Settings" name="TeamDRH/cm_packages_apps_Settings" remote="github" revision="wjb-cm9" />
+  <project path="frameworks/base" name="TeamDRH/cm_frameworks_base" remote="github" revision="wjb-cm9" />
+
 </manifest>
