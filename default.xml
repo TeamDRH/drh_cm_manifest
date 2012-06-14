@@ -278,7 +278,7 @@
 
   <!-- Device / Vendor specific -->
   <project path="device/malata/smba1002" name="TeamDRH/android_device_malata_smba1002_old" remote="github" revision="master" />
-  <project path="device/malata/smba_common" name="TeamDRH/android_device_malata_smba1002_common" remote="github" revision="master" />
+  <project path="device/malata/smba_common" name="TeamDRH/android_device_malata_smba_common" remote="github" revision="master" />
   <project path="vendor/malata" name="TeamDRH/vendor_malata" remote="github" revision="master" />
   <project path="vendor/TeamDRH" name="TeamDRH/vendor_TeamDRH" remote="github" revision="drh-build" />
 
