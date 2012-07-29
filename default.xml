@@ -325,4 +325,9 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
+
+  <project path="device/malata/smba1002" name="TeamDRH/android_device_malata_smba1002_old" remote="github" revision="jellybean" />
+  <project path="device/malata/smba_common" name="TeamDRH/android_device_malata_smba_common" remote="github" revision="jellybean" />
+  <project path="vendor/TeamDRH" name="TeamDRH/vendor_TeamDRH" remote="github" revision="jellybean" />
+  <project path="vendor/malata" name="TeamDRH/vendor_malata" remote="github" revision="jellybean" />
 </manifest>
