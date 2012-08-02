@@ -328,6 +328,6 @@
 
   <project path="device/malata/smba1002" name="TeamDRH/android_device_malata_smba1002_old" remote="github" revision="jellybean" />
   <project path="device/malata/smba_common" name="TeamDRH/android_device_malata_smba_common" remote="github" revision="jellybean" />
-  <project path="vendor/TeamDRH" name="TeamDRH/vendor_TeamDRH" remote="github" revision="jellybean" />
+  <project path="vendor/drh" name="TeamDRH/vendor_drh" remote="github" revision="jellybean" />
   <project path="vendor/malata" name="TeamDRH/vendor_malata" remote="github" revision="jellybean" />
 </manifest>
