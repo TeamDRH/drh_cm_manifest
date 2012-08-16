@@ -331,5 +331,4 @@
   <project path="device/malata/smba_common" name="TeamDRH/android_device_malata_smba_common" remote="github" revision="jellybean" />
   <project path="vendor/drh" name="TeamDRH/vendor_drh" remote="github" revision="jellybean" />
   <project path="vendor/malata" name="TeamDRH/vendor_malata" remote="github" revision="jellybean" />
-  <project path="kernel/malata/smba1002" name="TeamDRH/android-tegra-nv-2.6.39-rel-14r7" remote="github" revision="master" />
 </manifest>
